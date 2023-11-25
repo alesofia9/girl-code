@@ -1,0 +1,1 @@
+//User will post a blog.//
